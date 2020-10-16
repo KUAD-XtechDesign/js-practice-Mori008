@@ -2,17 +2,17 @@
 $(function(){    
 
     $("#button01").on("click",function(){
-        $(".back-red").slideToggle();
+        $(".back-red").slideUp();
     })
 
 
     $("#button02").on("click",function(){
-        $(".back-blue").hide();
+        $(".back-blue").slideUp();
     })
 
 
     $("#button03").on("click",function(){
-        $("#box03, #box07").hide();
+        $("#box03, #box07").slideUp();
     })
 
 

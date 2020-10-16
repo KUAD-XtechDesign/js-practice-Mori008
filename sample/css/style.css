@@ -1,14 +1,14 @@
 
 body{
-  background-color: #DCDCDC;
+  background-color: #ffffff;
   color: #333;
-  margin: 10px;
+  margin: 0px;
   font-size: 12px;
 }
 
 .wrapper{
   max-width: 1000px;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   margin: 0 auto;
   padding: 20px;
   min-height: 400px;
@@ -24,6 +24,7 @@ li{
 
 h1{
   font-size: 150%;
+  text-align: center;
 }
 
 .button{
@@ -47,6 +48,7 @@ h1{
   padding: 20px;
   margin: 10px;
   font-size: 15px;
+  background-color: rgb(146, 146, 146);
 }
 
 .q{
